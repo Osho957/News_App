@@ -1,10 +1,10 @@
 
 
 
+![screen_1](https://user-images.githubusercontent.com/64656510/113739833-ce8b1800-971d-11eb-93a2-f54dd3fe728b.png)
+![screen_3](https://user-images.githubusercontent.com/64656510/113739854-d480f900-971d-11eb-9882-c633c7bcd0f9.png)
 
-
-
-# Foobar
+# FataFat News
 
 FataFat News is A News App Which Uses News Api To Display Top News.
 
